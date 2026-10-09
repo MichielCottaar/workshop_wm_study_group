@@ -1,5 +1,5 @@
 # MCMRSimulator workshop
-These are the notebooks for the [`MCMRSimulator`](https://open.oxcin.ox.ac.uk/pages/ndcn0236/mcmrsimulator.jl/dev/) workshop at the [trainee bootcamp](https://sfrmbm.fr/2026/07/28/mr-methods-for-white-matter-imaging-13-octobre-2026-marseille/) before the [2026 WM study group meeting](https://community.ismrm.org/events/event-description?CalendarEventKey=64431d20-e6a1-4446-8a80-019efad75d06&Home=%2Fhome).
+These are the notebooks for the [`MCMRSimulator`](https://open.oxcin.ox.ac.uk/pages/ndcn0236/mcmrsimulator.jl/dev/) workshop at the [trainee bootcamp](https://amubox.univ-amu.fr/s/nfNq3gBfa7Rkeqc?dir=/&editing=false&openfile=true) before the [2026 WM study group meeting](https://echo.ismrm.org/program/WhiteMatter2026).
 
 It uses the latest, development version of the simulator at the time of the workshop (last update: October 8). 
 
