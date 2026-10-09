@@ -31,3 +31,12 @@ Start the REPL using
 julia --project=@.
 ```
 You can then copy-paste the code blocks from the notebooks into that REPL.
+
+## Command line interface
+All of these practicals use the `Julia` interface to the MCMRSimulator.
+There is also a command line interface, which can be installed using
+```bash
+julia -e 'import Pkg; Pkg.Apps.add(url="https://git.fmrib.ox.ac.uk/ndcn0236/mcmrsimulator.jl")'
+```
+It has the same overall features as the `Julia` interface, although it is a bit less flexible.
+You can find a tutorial on how to use the CLI [here](https://open.oxcin.ox.ac.uk/pages/ndcn0236/mcmrsimulator.jl/dev/tutorial_cli/).
