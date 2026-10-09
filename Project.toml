@@ -3,6 +3,8 @@ CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 MCMRSimulator = "eac06e4d-a854-4bf6-b44f-54c98b0401d1"
 MRIBuilder = "691e6122-0b62-4932-92e7-e4ff0ddaf3a0"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
 [sources]
 MCMRSimulator = {rev = "6690c85171276bec9e7df63142b52a713a62a586", url = "https://git.fmrib.ox.ac.uk/ndcn0236/mcmrsimulator.jl.git"}
+MRIBuilder = {rev = "v0.4.1", url = "https://git.fmrib.ox.ac.uk/ndcn0236/mribuilder.jl.git"}
